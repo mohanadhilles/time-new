@@ -99,7 +99,7 @@ $company_favicon=Utility::getValByName('company_favicon');
 									</div>
 								</div>		
 								<div class="text-center">
-									<a href="https://partatime.typeform.com/to/Au1uWK" class="btn btn-deep-blue">انضم كمستثمر لرحلتنا العالمية </a>
+									<a href="https://partatime.typeform.com/to/Au1uWK" target="__blank" class="btn btn-deep-blue">انضم كمستثمر لرحلتنا العالمية </a>
 								</div>						
 							</div>
 							<h2 class="wow fadeInUp" data-wow-duration="1.5s" data-wow-delay=".5s">تواجهك صعوبة بتوظيف المهنيين المحترفين ؟</h2>
@@ -136,7 +136,7 @@ $company_favicon=Utility::getValByName('company_favicon');
 							</div>
 						</div>		
 						<div class="text-center">
-							<a href="https://partatime.typeform.com/to/Au1uWK" class="btn btn-deep-blue">انضم كمستثمر لرحلتنا العالمية </a>
+							<a href="https://partatime.typeform.com/to/Au1uWK" target="__blank" class="btn btn-deep-blue">انضم كمستثمر لرحلتنا العالمية </a>
 						</div>						
 					</div>
 				</div>
