@@ -161,8 +161,8 @@ $company_favicon=Utility::getValByName('company_favicon');
 								<p>منصة بارتايم ربط المنشآت مع المهنيين الباحثين عن العمل الجزئي والمرن لزيادة الانتاجية والدخل ورفع مستوى الامتثال والشفافية</p>
 							</div>
 							<div class="actions wow fadeInUp" data-wow-duration="1.5s" data-wow-delay=".7s">
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-pink ml-md-2">للباحثين عن فرص عمل بارتايم</a>
-								<a href="https://partatime.typeform.com/to/zyXTV5" class="btn btn-blue-light">للمنشأت</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-pink ml-md-2">للباحثين عن فرص عمل بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zyXTV5" target="_blank" class="btn btn-blue-light">للمنشأت</a>
 							</div>
 						</div>
 					</div>
@@ -454,8 +454,8 @@ $company_favicon=Utility::getValByName('company_favicon');
 							<p class="city">الرياض</p>
 							<p class="content">هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما </p>
 							<div class="links">
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-pink btn-sm">وظف بارتايم</a>
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-pink btn-sm">وظف بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
 							</div>
 						</div>
 					</div>
@@ -468,8 +468,8 @@ $company_favicon=Utility::getValByName('company_favicon');
 							<p class="city">الرياض</p>
 							<p class="content">هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما </p>
 							<div class="links">
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-pink btn-sm">وظف بارتايم</a>
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-pink btn-sm">وظف بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
 							</div>
 						</div>
 					</div>
@@ -482,8 +482,8 @@ $company_favicon=Utility::getValByName('company_favicon');
 							<p class="city">الرياض</p>
 							<p class="content">هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما </p>
 							<div class="links">
-								<a href="https://partatime.typeform.com/to/zyXTV5" class="btn btn-pink btn-sm">وظف بارتايم</a>
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zyXTV5"  target="__blank"class="btn btn-pink btn-sm">وظف بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS"  target="__blank"class="btn btn-blue-light btn-sm">انضم بارتايم</a>
 							</div>
 						</div>
 					</div>
@@ -496,8 +496,8 @@ $company_favicon=Utility::getValByName('company_favicon');
 							<p class="city">الرياض</p>
 							<p class="content">هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما </p>
 							<div class="links">
-								<a href="https://partatime.typeform.com/to/zyXTV5" class="btn btn-pink btn-sm">وظف بارتايم</a>
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zyXTV5" target="__blank" class="btn btn-pink btn-sm">وظف بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
 							</div>
 						</div>
 					</div>
@@ -510,8 +510,8 @@ $company_favicon=Utility::getValByName('company_favicon');
 							<p class="city">الرياض</p>
 							<p class="content">هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما </p>
 							<div class="links">
-								<a href="https://partatime.typeform.com/to/zyXTV5" class="btn btn-pink btn-sm">وظف بارتايم</a>
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zyXTV5" target="__blank" class="btn btn-pink btn-sm">وظف بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
 							</div>
 						</div>
 					</div>
@@ -524,8 +524,8 @@ $company_favicon=Utility::getValByName('company_favicon');
 							<p class="city">الرياض</p>
 							<p class="content">هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما </p>
 							<div class="links">
-								<a href="https://partatime.typeform.com/to/zyXTV5" class="btn btn-pink btn-sm">وظف بارتايم</a>
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zyXTV5" target="__blank" class="btn btn-pink btn-sm">وظف بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
 							</div>
 						</div>
 					</div>
@@ -538,8 +538,8 @@ $company_favicon=Utility::getValByName('company_favicon');
 							<p class="city">الرياض</p>
 							<p class="content">هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما </p>
 							<div class="links">
-								<a href="https://partatime.typeform.com/to/zyXTV5" class="btn btn-pink btn-sm">وظف بارتايم</a>
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zyXTV5" target="__blank" class="btn btn-pink btn-sm">وظف بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
 							</div>
 						</div>
 					</div>
@@ -552,8 +552,8 @@ $company_favicon=Utility::getValByName('company_favicon');
 							<p class="city">الرياض</p>
 							<p class="content">هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما </p>
 							<div class="links">
-								<a href="https://partatime.typeform.com/to/zyXTV5" class="btn btn-pink btn-sm">وظف بارتايم</a>
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zyXTV5" target="__blank" class="btn btn-pink btn-sm">وظف بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
 							</div>
 						</div>
 					</div>
