@@ -6,7 +6,7 @@ $company_favicon=Utility::getValByName('company_favicon');
 <meta charset="UTF-8">
 <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
 <title>{{(Utility::getValByName('title_text')) ? Utility::getValByName('title_text') : config('app.name', 'PartTime')}} - @yield('page-title')</title>
-<link rel="icon" href="{{$logo.'/'.(isset($company_favicon) && !empty($company_favicon)?$company_favicon:'favicon.png')}}" type="image" sizes="16x16">
+<link rel="icon" href="{{$logo.'/'.(isset($company_favicon) && !empty($company_favicon)?$company_favicon:'assets/img/logo.png')}}" type="image" sizes="16x16">
 
 <link rel="stylesheet" href="{{ asset('assets/modules/bootstrap/css/bootstrap.min.css') }}">
 <link rel="stylesheet" href="{{ asset('assets/modules/fontawesome/css/all.min.css') }}">

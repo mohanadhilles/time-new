@@ -99,7 +99,7 @@ $company_favicon=Utility::getValByName('company_favicon');
 									</div>
 								</div>		
 								<div class="text-center">
-									<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-deep-blue">انضم كمستثمر لرحلتنا العالمية </a>
+									<a href="https://partatime.typeform.com/to/Au1uWK" target="__blank" class="btn btn-deep-blue">انضم كمستثمر لرحلتنا العالمية </a>
 								</div>						
 							</div>
 							<h2 class="wow fadeInUp" data-wow-duration="1.5s" data-wow-delay=".5s">تواجهك صعوبة بتوظيف المهنيين المحترفين ؟</h2>
@@ -136,7 +136,7 @@ $company_favicon=Utility::getValByName('company_favicon');
 							</div>
 						</div>		
 						<div class="text-center">
-							<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-deep-blue">انضم كمستثمر لرحلتنا العالمية </a>
+							<a href="https://partatime.typeform.com/to/Au1uWK" target="__blank" class="btn btn-deep-blue">انضم كمستثمر لرحلتنا العالمية </a>
 						</div>						
 					</div>
 				</div>
@@ -161,8 +161,8 @@ $company_favicon=Utility::getValByName('company_favicon');
 								<p>منصة بارتايم ربط المنشآت مع المهنيين الباحثين عن العمل الجزئي والمرن لزيادة الانتاجية والدخل ورفع مستوى الامتثال والشفافية</p>
 							</div>
 							<div class="actions wow fadeInUp" data-wow-duration="1.5s" data-wow-delay=".7s">
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-pink ml-md-2">للباحثين عن فرص عمل بارتايم</a>
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-blue-light">للمنشأت</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-pink ml-md-2">للباحثين عن فرص عمل بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zyXTV5" target="_blank" class="btn btn-blue-light">للمنشأت</a>
 							</div>
 						</div>
 					</div>
@@ -269,8 +269,8 @@ $company_favicon=Utility::getValByName('company_favicon');
 							<p class="city">الرياض</p>
 							<p class="content">هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما </p>
 							<div class="links">
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-pink btn-sm">وظف بارتايم</a>
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-pink btn-sm">وظف بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
 							</div>
 						</div>
 					</div>
@@ -283,8 +283,8 @@ $company_favicon=Utility::getValByName('company_favicon');
 							<p class="city">الرياض</p>
 							<p class="content">هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما </p>
 							<div class="links">
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-pink btn-sm">وظف بارتايم</a>
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-pink btn-sm">وظف بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
 							</div>
 						</div>
 					</div>
@@ -297,8 +297,8 @@ $company_favicon=Utility::getValByName('company_favicon');
 							<p class="city">الرياض</p>
 							<p class="content">هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما </p>
 							<div class="links">
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-pink btn-sm">وظف بارتايم</a>
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zyXTV5"  target="__blank"class="btn btn-pink btn-sm">وظف بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS"  target="__blank"class="btn btn-blue-light btn-sm">انضم بارتايم</a>
 							</div>
 						</div>
 					</div>
@@ -311,8 +311,8 @@ $company_favicon=Utility::getValByName('company_favicon');
 							<p class="city">الرياض</p>
 							<p class="content">هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما </p>
 							<div class="links">
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-pink btn-sm">وظف بارتايم</a>
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zyXTV5" target="__blank" class="btn btn-pink btn-sm">وظف بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
 							</div>
 						</div>
 					</div>
@@ -325,8 +325,8 @@ $company_favicon=Utility::getValByName('company_favicon');
 							<p class="city">الرياض</p>
 							<p class="content">هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما </p>
 							<div class="links">
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-pink btn-sm">وظف بارتايم</a>
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zyXTV5" target="__blank" class="btn btn-pink btn-sm">وظف بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
 							</div>
 						</div>
 					</div>
@@ -339,8 +339,8 @@ $company_favicon=Utility::getValByName('company_favicon');
 							<p class="city">الرياض</p>
 							<p class="content">هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما </p>
 							<div class="links">
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-pink btn-sm">وظف بارتايم</a>
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zyXTV5" target="__blank" class="btn btn-pink btn-sm">وظف بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
 							</div>
 						</div>
 					</div>
@@ -353,8 +353,8 @@ $company_favicon=Utility::getValByName('company_favicon');
 							<p class="city">الرياض</p>
 							<p class="content">هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما </p>
 							<div class="links">
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-pink btn-sm">وظف بارتايم</a>
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zyXTV5" target="__blank" class="btn btn-pink btn-sm">وظف بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
 							</div>
 						</div>
 					</div>
@@ -367,8 +367,8 @@ $company_favicon=Utility::getValByName('company_favicon');
 							<p class="city">الرياض</p>
 							<p class="content">هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما </p>
 							<div class="links">
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-pink btn-sm">وظف بارتايم</a>
-								<a href="https://partatime.typeform.com/to/zPyfQS" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zyXTV5" target="__blank" class="btn btn-pink btn-sm">وظف بارتايم</a>
+								<a href="https://partatime.typeform.com/to/zPyfQS" target="__blank" class="btn btn-blue-light btn-sm">انضم بارتايم</a>
 							</div>
 						</div>
 					</div>
@@ -657,26 +657,29 @@ $company_favicon=Utility::getValByName('company_favicon');
 	<script  src="<?php echo e(asset('assets/web/plugins/owlslider/owl.carousel.min.js')); ?>"></script>
     <script  src="<?php echo e(asset('assets/web/js/main.js')); ?>"></script>
     <!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/5e0db55e27773e0d832b7e13/default';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-168595512-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-168595512-1');
-</script>
+	<script type="text/javascript">
+		var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+		(function(){
+		var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+		s1.async=true;
+		s1.src='https://embed.tawk.to/5e0db55e27773e0d832b7e13/1ekjnltcj';
+		s1.charset='UTF-8';
+		s1.setAttribute('crossorigin','*');
+		s0.parentNode.insertBefore(s1,s0);
+		})();
+		</script>
+		
+		<!--End of Tawk.to Script-->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-168595512-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		
+		  gtag('config', 'UA-168595512-1');
+		</script>
 
 
 <!--End of Tawk.to Script-->
