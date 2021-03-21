@@ -841,21 +841,18 @@ $company_favicon=Utility::getValByName('company_favicon');
     <script  src="{{asset('assets/web/js/bootstrap.min.js')}}"></script>    
 	<script  src="{{asset('assets/web/plugins/owlslider/owl.carousel.min.js')}}"></script>
     <script  src="{{asset('assets/web/js/main.js')}}"></script>
-    <!--Start of Tawk.to Script-->
-
 	<script type="text/javascript">
-		var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-		(function(){
-		var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-		s1.async=true;
-		s1.src='https://embed.tawk.to/5e0db55e27773e0d832b7e13/1ekjnltcj';
-		s1.charset='UTF-8';
-		s1.setAttribute('crossorigin','*');
-		s0.parentNode.insertBefore(s1,s0);
-		})();
+		var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode:"76e552bf93352cd3f332fe1b6ef5b5b60dacb0f109db044c25b6ef720716b861", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.com/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id='zsiqwidget'></div>");
 		</script>
-		
-		<!--End of Tawk.to Script-->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-7PWLVRHP16"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-7PWLVRHP16');
+</script>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-168595512-1"></script>
 		<script>
